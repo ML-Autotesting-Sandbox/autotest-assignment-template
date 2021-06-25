@@ -1,7 +1,4 @@
-Current template 6/24
--to do: 
-- README
-- copy template to Athenian Computer Science and Comp Thinking orgs
+### Copied over to Athenian Computer Science 6/25 
 
 
 
