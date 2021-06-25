@@ -1,19 +1,17 @@
 # :beetle: Test failure
-> Test failures can be caused by incorrect output formatting, logic errors, or runtime errors. They are more difficult to find and fix than syntax/style errors. But if you follow the directions in each section below, you should be able to pinpoint the bug. Once you think you've found the issue, update your program and resubmit (commit/push). You may need to repeat this cycle several times. :repeat: 
+> Test failures can be caused by incorrect output formatting, logic errors, or runtime errors. They are more difficult to find and fix than syntax/style errors. But if you follow the directions in each section below, you should be able to pinpoint the bug. (Syntax errors will cause the tests to fail, too, but you should catch those before you send your project here!) Once you think you've found the issue, update your program and resubmit (commit/push). You may need to repeat this cycle several times. :repeat: 
 > 
-> [This video](https://youtu.be/gdc-SYhRFCM) illustrates how I use GitHub and Repl.it to debug a programming assignment.
+
 
 ### :printer: Output formatting
-1. Open the [assignment directions](../blob/main/README.md) here in GitHub, and find the **output requirements**.
-2. In another browser tab, open your program in repl.it by clicking the **work in replit** button.
-3. Run your program in repl.it
-4. Compare the format of your console output to the output format required in the directions. 
-5. Do they match **EXACTLY**? The capitalization, punctuation, whitespace, and formatting must match exactly.
-### :arrow_forward: Manually run the test cases
-1. Open the assignment in [Canvas](https://uvu.instructure.com/), and find the **test cases** listed in the rubric. 
-2. In another browser tab, Open your program in repl.it by clicking the **work in replit** button in the [assignment directions](../blob/main/README.md).
-4. With both replit and the rubric open, run your program with each set of inputs listed in the rubric's test cases.
-5. Compare your output in the console to the test case's output. The values should match exactly.
+1. Open the [assignment directions](/README.md) here in GitHub, and note the **expected output**.
+2. Run your program with the sample input provided.
+3. Compare the format of your console output to the output format required in the directions. 
+4. Do they match **EXACTLY**? The capitalization, punctuation, whitespace, and formatting must match exactly.
+### :arrow_forward: Manually run the ALL test cases
+1. Look at the error messages below. Can you tell what tests failed?
+2. Manually run your program using those test cases to see what happened and try to resolve the issue.
+3. Consider "edge" cases - places where the behavior of a program shifts - and try those.
 ### :mag_right: Re-read the directions
 - Open the [assignment directions](../blob/main/README.md) and re-read them very closely several times. Did you miss any small details?
 ### :footprints: Step through your program with Pythontutor
@@ -23,7 +21,8 @@
 ### :writing_hand: Re-write your algorithm from scratch
 - Don't start with the code, start with your algorithm.
 - Codecademy Video: [What is psuedocode and how do you use it?](https://youtu.be/PwGA4Lm8zuE)
-### :open_book: Inspect the test log below
-- Are there any clues that are helpful?
+### 👋 Ask for help!
+- Check with your friend or neighbor. Helping others find errors is great practice.
+- Stumped your neighbor? Ask Megan! 😊
 
 <br>
