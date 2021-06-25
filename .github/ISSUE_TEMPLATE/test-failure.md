@@ -23,6 +23,6 @@
 - Codecademy Video: [What is psuedocode and how do you use it?](https://youtu.be/PwGA4Lm8zuE)
 ### 👋 Ask for help!
 - Check with your friend or neighbor. Helping others find errors is great practice.
-- Stumped your neighbor? Ask Megan! 😊
+- Did you stump your neighbor? Ask Megan! 😊
 
 <br>
